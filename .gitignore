@@ -9,7 +9,9 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+
 src/data/flashcards-data.json
+src/pages/flashcards.tsx
 
 # macOS
 .DS_Store
